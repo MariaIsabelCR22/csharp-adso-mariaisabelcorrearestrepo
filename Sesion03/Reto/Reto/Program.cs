@@ -1,4 +1,6 @@
-﻿Console.WriteLine("=== VALIDADOR DE CONTRASEÑAS ===");
+﻿//reto
+
+Console.WriteLine("=== VALIDADOR DE CONTRASEÑAS ===");
 Console.WriteLine();
 Console.Write("=== LOS REQUISITOS SON LOS SIGUIENTES ===");
 Console.WriteLine();

@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿//practica
+using System.Text;
 using static System.Net.Mime.MediaTypeNames;
 
 ausing System.Text;

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion02\\Reto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9782560A-9EC9-423A-9B3F-DDBFCC0EF608}|Reto\\Reto.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion02\\reto\\reto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9782560A-9EC9-423A-9B3F-DDBFCC0EF608}|Reto\\Reto.csproj|solutionrelative:reto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion02\\Reto\\Reto\\Program.cs",
+              "RelativeDocumentMoniker": "Reto\\Program.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion02\\Reto\\Reto\\Program.cs",
+              "RelativeToolTip": "Reto\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T20:40:58.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

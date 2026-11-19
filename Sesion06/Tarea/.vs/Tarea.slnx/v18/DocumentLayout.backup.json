@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\tarea\\tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|solutionrelative:tarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\tarea\\tarea\\procesadorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|solutionrelative:tarea\\procesadorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\tarea\\tarea\\pagobilletera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|solutionrelative:tarea\\pagobilletera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\tarea\\tarea\\pagotarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|solutionrelative:tarea\\pagotarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\tarea\\tarea\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|solutionrelative:tarea\\pagoefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\tarea\\tarea\\ireembolsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|solutionrelative:tarea\\ireembolsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\tarea\\tarea\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579A922-9762-46D6-8BED-DBA7BA176B3D}|Tarea\\Tarea.csproj|solutionrelative:tarea\\imetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcesadorPagos.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\ProcesadorPagos.cs",
+              "RelativeDocumentMoniker": "Tarea\\ProcesadorPagos.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\ProcesadorPagos.cs",
+              "RelativeToolTip": "Tarea\\ProcesadorPagos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:02:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagoBilletera.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\PagoBilletera.cs",
+              "RelativeDocumentMoniker": "Tarea\\PagoBilletera.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\PagoBilletera.cs",
+              "RelativeToolTip": "Tarea\\PagoBilletera.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:02:22.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagoTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\PagoTarjeta.cs",
+              "RelativeDocumentMoniker": "Tarea\\PagoTarjeta.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\PagoTarjeta.cs",
+              "RelativeToolTip": "Tarea\\PagoTarjeta.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T04:01:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagoEfectivo.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\PagoEfectivo.cs",
+              "RelativeDocumentMoniker": "Tarea\\PagoEfectivo.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\PagoEfectivo.cs",
+              "RelativeToolTip": "Tarea\\PagoEfectivo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:59:32.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReembolsable.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\IReembolsable.cs",
+              "RelativeDocumentMoniker": "Tarea\\IReembolsable.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\IReembolsable.cs",
+              "RelativeToolTip": "Tarea\\IReembolsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:58:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea\\Program.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\Program.cs",
+              "RelativeToolTip": "Tarea\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:56:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\IMetodoPago.cs",
+              "RelativeDocumentMoniker": "Tarea\\IMetodoPago.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Tarea\\Tarea\\IMetodoPago.cs",
+              "RelativeToolTip": "Tarea\\IMetodoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:57:50.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

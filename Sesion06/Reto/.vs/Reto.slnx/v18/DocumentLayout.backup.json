@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\reto\\reto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|solutionrelative:reto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\reto\\reto\\contratista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|solutionrelative:reto\\contratista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\reto\\reto\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|solutionrelative:reto\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\reto\\reto\\empleadoplanta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|solutionrelative:reto\\empleadoplanta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|c:\\users\\holaa\\desktop\\csharp-adso-mariaisabelcorrearestrepo\\sesion06\\reto\\reto\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDF3F2D-FE2C-4661-915D-E25BBFF3724D}|Reto\\Reto.csproj|solutionrelative:reto\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contratista.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\Contratista.cs",
+              "RelativeDocumentMoniker": "Reto\\Contratista.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\Contratista.cs",
+              "RelativeToolTip": "Reto\\Contratista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:16:43.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "Reto\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "Reto\\EmpleadoPorHoras.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:16:23.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoPlanta.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\EmpleadoPlanta.cs",
+              "RelativeDocumentMoniker": "Reto\\EmpleadoPlanta.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\EmpleadoPlanta.cs",
+              "RelativeToolTip": "Reto\\EmpleadoPlanta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:15:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\Empleado.cs",
+              "RelativeDocumentMoniker": "Reto\\Empleado.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\Empleado.cs",
+              "RelativeToolTip": "Reto\\Empleado.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:15:04.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\Program.cs",
+              "RelativeDocumentMoniker": "Reto\\Program.cs",
+              "ToolTip": "C:\\Users\\holaa\\Desktop\\csharp-adso-mariaisabelcorrearestrepo\\Sesion06\\Reto\\Reto\\Program.cs",
+              "RelativeToolTip": "Reto\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T03:08:43.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

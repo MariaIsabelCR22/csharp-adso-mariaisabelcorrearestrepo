@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Codigo": "P001",
+    "Nombre": "Arroz",
+    "Precio": 3500,
+    "Stock": 20
+  },
+  {
+    "Codigo": "P002",
+    "Nombre": "Leche",
+    "Precio": 4200,
+    "Stock": 3
+  },
+  {
+    "Codigo": "P003",
+    "Nombre": "Pan",
+    "Precio": 2500,
+    "Stock": 15
+  },
+  {
+    "Codigo": "P004",
+    "Nombre": "Azucar",
+    "Precio": 4000,
+    "Stock": 2
+  },
+  {
+    "Codigo": "P005",
+    "Nombre": "Cafe",
+    "Precio": 12000,
+    "Stock": 8
+  }
+]
